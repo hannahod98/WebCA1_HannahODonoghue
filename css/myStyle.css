@@ -1,0 +1,82 @@
+
+
+.mynav {
+    background-color: transparent;
+
+}
+
+.row {
+    padding-top: 10px;
+}
+
+
+.myheader {
+    background-color: #52ce9e !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #393b3a;
+}
+
+.mybtn {
+    background-color: #52ce9e;
+    border-radius: 0 !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #515856;
+
+
+}
+
+.mylink {
+    color: black;
+}
+
+.myfooter {
+    background-color: darkgray;
+}
+
+.mypagetitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.mytext {
+    font-family: 'Lato', sans-serif;
+
+}
+
+.mytitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.footer {
+    background-color: dimgrey;
+}
+
+.mycard {
+    border-radius: 0 !important;
+    background-color: #ebebeb;
+}
+
+.myinput {
+    border-radius: 0 !important;
+    font-family: 'Lato', sans-serif;
+}
+
+label {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+footer {
+    background-color: #959595;
+    margin-top: 10px;
+}
+
+/*
+form{
+    background-color: #ebebeb;
+}
+*/
